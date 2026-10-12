@@ -61,7 +61,7 @@ class CTConfiguration:
     # ---------------------------------------------------------
     # TCM
     # ---------------------------------------------------------
-    tcm_enabled: bool = True
+    tcm_enabled: bool = False
     tcm_modulation_depth: float = 0.25
     tcm_phase_deg: float = 0.0
 
