@@ -250977,7 +250977,7 @@
         "data_format": "NumPy .npy"
     },
     "tcm": {
-        "enabled": true,
+        "enabled": false,
         "modulation_depth": 0.25,
         "phase_deg": 0.0
     }
