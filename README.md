@@ -66,12 +66,11 @@ The configuration module can also accept a **3D voxel volume representing the sc
 * [x] Implemented configuration export to JSON.
 * [x] Implemented visualization of view angles and TCM profile.
 * [x] Created an integration example using `main.py`.
-* [ ] Integrate with the final 3D voxel dataset provided by the project.
-* [ ] Integrate and test the configuration interface with all other project modules.
-* [ ] Perform final end-to-end validation of the complete CT simulation pipeline.
+* [x] Integrate with the final 3D voxel dataset provided by the project.
+* [x] Integrate and test the configuration interface with all other project modules.
+* [x] Perform final end-to-end validation of the complete CT simulation pipeline.
 
 ---
-
 ### 4. How We Will Validate Results
 
 The CT Configuration module will be validated using both **numerical checks and physical consistency checks**.
